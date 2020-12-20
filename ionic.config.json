@@ -1,0 +1,7 @@
+{
+  "name": "cloud-social-analysis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
